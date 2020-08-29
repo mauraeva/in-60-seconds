@@ -14,7 +14,7 @@
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](https://www.youtube.com/watch?v=oQ5M98JpJ2Y)
+![VIDEO](https://www.youtube.com/watch?v=oQ5M98JpJ2Y)
 @snapend
 
 @snap[south span-100]
