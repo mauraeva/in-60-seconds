@@ -13,8 +13,8 @@
 ## You can add anything, let's try video...
 @snapend
 
-@snap[north-east span-45]
-![VIDEO](https://www.youtube.com/watch?v=oQ5M98JpJ2Y)
+@css[title-top-right](https://www.youtube.com/watch?v=oQ5M98JpJ2Y)
+## Didn't work :(
 @snapend
 
 @snap[south span-100]
@@ -22,7 +22,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
 ---
-@title[Add A Little Imagination]
+@title[Quarantined & learning...]
 
 @snap[north-west span-50 text-center]
 #### Engage your Audience
@@ -30,15 +30,15 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- Eat
+- Take a nap
+- Rinse **little imagination**
+- And repeat
 @ulend
 @snapend
 
 @snap[east span-45]
-![IMAGE](assets/img/conference.png)
+![IMAGE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fman-taking-nap-big-sofa_1308-9400.jpg%3Fsize%3D626%26ext%3Djpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftake-a-nap&tbnid=xcVtwNDGXs0nDM&vet=12ahUKEwi4rOqPmr_rAhUUADQIHbaQC6oQMygWegUIARDvAQ..i&docid=uZLagU2PPwAQnM&w=626&h=400&q=taking%20a%20nap&ved=2ahUKEwi4rOqPmr_rAhUUADQIHbaQC6oQMygWegUIARDvAQ)
 @snapend
 
 @snap[south span-100 bg-black fragment]
