@@ -2,9 +2,9 @@
 
 ---
 
-### How to add photo?
+### How to add photo? Find and copy photo link into md file!
 
-![IMAGE](assets/img/presentation.png)
+![IMAGE](https://1adn3cp4l2-flywheel.netdna-ssl.com/wp-content/uploads/2019/03/link-expired-wpk.jpg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
@@ -14,7 +14,7 @@
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](https://1adn3cp4l2-flywheel.netdna-ssl.com/wp-content/uploads/2019/03/link-expired-wpk.jpg)
 @snapend
 
 @snap[south span-100]
