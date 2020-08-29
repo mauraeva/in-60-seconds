@@ -38,7 +38,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
 @snap[east span-45]
-![IMAGE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fman-taking-nap-big-sofa_1308-9400.jpg%3Fsize%3D626%26ext%3Djpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftake-a-nap&tbnid=xcVtwNDGXs0nDM&vet=12ahUKEwi4rOqPmr_rAhUUADQIHbaQC6oQMygWegUIARDvAQ..i&docid=uZLagU2PPwAQnM&w=626&h=400&q=taking%20a%20nap&ved=2ahUKEwi4rOqPmr_rAhUUADQIHbaQC6oQMygWegUIARDvAQ)
+![IMAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHFVU0OFfCzKMa0LcpspUXcv6l4aabtmBhLw&usqp=CAU)
 @snapend
 
 @snap[south span-100 bg-black fragment]
