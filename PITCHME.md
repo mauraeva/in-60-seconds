@@ -10,11 +10,11 @@
 @title[Customize Slide Layout]
 
 @snap[west span-55]
-## Customize the Layout
+## You can add anything, let's try video...
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](https://1adn3cp4l2-flywheel.netdna-ssl.com/wp-content/uploads/2019/03/link-expired-wpk.jpg)
+![IMAGE](https://www.youtube.com/watch?v=oQ5M98JpJ2Y)
 @snapend
 
 @snap[south span-100]
