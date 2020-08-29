@@ -1,8 +1,8 @@
-# Let's Get **Started**
+# Playing around **Ready?**
 
 ---
 
-### Add Some Slide Candy
+### How to add photo?
 
 ![IMAGE](assets/img/presentation.png)
 
